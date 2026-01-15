@@ -9,4 +9,4 @@ winget install Rustlang.Rustup
 cargo install rustlings
 rustlings init
 cd rustlings
-rustlings watch
+rustlings
