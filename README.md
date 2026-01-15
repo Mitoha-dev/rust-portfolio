@@ -2,6 +2,8 @@
 RUSTの学習のための簡単なプログラムが入ったリポジトリです。
 This is a repository containing simple programs for learning RUST.
 
+rustlingはinit_setupでインストールしたRUSTの公式教材です
+
 命名則：
 
 syntax- ：基礎構文・Rust特有の概念 言語仕様そのものを学ぶためのコードです。
