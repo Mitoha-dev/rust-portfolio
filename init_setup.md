@@ -13,4 +13,5 @@ cd rustlings
 rustlings
 
 ・毎回の起動
+cd ./rustlings
 rustlings
