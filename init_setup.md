@@ -11,3 +11,6 @@ cargo install rustlings
 rustlings init
 cd rustlings
 rustlings
+
+・毎回の起動
+rustlings
