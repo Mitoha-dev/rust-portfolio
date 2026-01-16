@@ -8,7 +8,7 @@ fn is_even(num: i64) -> bool {
 }
 
 // TODO: Fix the function signature.
-fn sale_price(price: i64) -> {
+fn sale_price(price: i64) -> i64 {
     if is_even(price) {
         price - 10
     } else {
@@ -17,6 +17,6 @@ fn sale_price(price: i64) -> {
 }
 
 fn main() {
-    let original_price = 51;
+    let original_price: i64 = 51;
     println!("Your sale price is {}", sale_price(original_price));
 }
