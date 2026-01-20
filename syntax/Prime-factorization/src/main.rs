@@ -1,4 +1,4 @@
-use std::io;
+use std::io; // To allows input/output functions to be used under the short name “io”.
 
 fn main() {
     println!("Enter a number to factor:");
