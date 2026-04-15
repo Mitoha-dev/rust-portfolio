@@ -2,7 +2,7 @@ use rand::seq::SliceRandom;
 use rand::thread_rng;
 
 fn main() {
-    const N: usize = 20;
+    const N: usize = 200;
     const TARGET: usize = 4;
 
     let v = random_array(N);
